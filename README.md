@@ -6,9 +6,6 @@ Um projeto simples e funcional de **To-Do List (lista de tarefas)** feito com HT
 
 ## 🔍 Preview
 
-![Preview do projeto](https://oggfelpz.github.io/daily-planner/preview_TodoList_070625.png
-)
-
 ➡️ Acesse aqui: [oggfelpz.github.io/daily-planner](https://oggfelpz.github.io/daily-planner/)
 
 ---
