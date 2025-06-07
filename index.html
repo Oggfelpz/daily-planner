@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>To-Do List Responsiva</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Minha Lista De Tarefas</h1>
+    <input type="text" id="tarefa" placeholder="Insira uma tarefa" /> <br><br>
+    <button onclick="adicionarTarefa()">Adicionar Tarefa</button>
+    <ul id="lista"></ul>
+  </div>
+
+  <script src="script.js"></script>
+  <script>
+    document.getElementById('tarefa').focus();
+  </script>
+</body>
+</html>
